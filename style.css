@@ -1,0 +1,35 @@
+body{
+    @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Baloo+Bhai+2&family=Bree+Serif&family=Great+Vibes&family=Kanit&family=Merriweather:ital,wght@0,300;1,700&display=swap');
+    background-color: rgb(54, 125, 117);
+}
+.container {
+    margin: 100px auto;
+    height:100vvh ;
+    background-color: rgb(125, 195, 249);
+    border-radius: 20px;
+    display: block;
+    box-shadow: 35%;
+}
+
+.registration-form {
+    width: 75%;
+    margin: auto;
+}
+
+.title {
+    color: rgb(255, 255, 255);
+    margin-top: 4px;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    font: 90px;
+}
+
+.form-label {
+    font-family: 'Merriweather', serif;
+    color: white;
+}
+
+.submit-btn {
+    text-align: center;
+    margin-bottom: 15px;
+}
